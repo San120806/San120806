@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Saniya+Kapure😁;+Welcome+to+my+Profile!💻" />  
                
 <h3 align="center">   
-    <font color="blue">Enthusiastic Computer Science Student 👩🏻‍🎓| 2nd year 👩🏻‍💻| Creative🎨</font>    
+    <font color="blue">Enthusiastic Computer Science Student 👩🏻‍🎓| 1st year 👩🏻‍💻| Creative🎨</font>    
 </h3>     
         
 <div align="center">   
     <p><font color="blue">👨‍💻 I live in Mumbai🇮🇳</font></p>         
     <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming and Visual Arts</font></p>  
-    <p><font color="blue">👨‍💻 Second-year B.Tech student at ITM Skills University x Lets Upgrade</font></p>
+    <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University x Lets Upgrade</font></p>
     <p><font color="blue">🚀 Exploring the world of tech</font></p>  
     <p><font color="blue">🌱 Currently diving deep into JavaScript, Flutter and Dart</font></p>  
     <p><font color="blue">⚡ Enthusiastic about Cyber Security and AR/VR</font></p>
